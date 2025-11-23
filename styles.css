@@ -1,0 +1,18 @@
+body {
+    font-family: 'Verdana';
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    color: #800080;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #e693e4;
+}
+
+h1 {
+    color: #800080;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+    font-family: 'Brush Script MT'
+}
